@@ -34,7 +34,8 @@ Other alternative choices include Reactor-Netty and Akka etc.
 
 ## Future work
 Given more time, I would work on following items to improve the client:
-1. Mechanism to handle back pressure.
-2. Exactly-once processing.
-3. Failure recovery.
-4. More test cases.
+- Clustering
+- Mechanism to dynamically handle back pressure.
+- Exactly-once processing.
+- Resilience and failure recovery.
+- More test cases and implement a server for integration testing.
