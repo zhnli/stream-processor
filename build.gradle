@@ -16,7 +16,7 @@ dependencies {
   testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.3.1'
 }
 
-mainClassName = "com.netflix.demo.StreamProcessor"
+mainClassName = "com.stream.demo.StreamProcessor"
 
 run {
   standardInput = System.in
