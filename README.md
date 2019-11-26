@@ -1,7 +1,6 @@
 # Stream Processing Client
 ## Prerequisites
-Java 1.8
-Gradle 6.0.1
+Java 1.8 and Gradle 6.0.1
 
 ## Instructions
 To get dependencies and build the client:
